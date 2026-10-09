@@ -51,7 +51,7 @@ This project focuses on questions such as:
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 ### Insurance Policy Dataset
 
@@ -99,7 +99,7 @@ The Power BI feedback analysis also includes a **Good/Improvement** categorizati
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```text
 Excel / CSV Data
@@ -117,7 +117,7 @@ Customer Feedback & Sentiment Analysis
 
 ---
 
-# 🗄️ SQL Server Analysis
+# SQL Server Analysis
 
 A SQL Server database named `Insurancedb` was created for the insurance dataset.
 
@@ -138,9 +138,10 @@ SQL was used to work with the insurance data before connecting it to the Power B
 
 ---
 
-# 📊 Power BI Dashboard
+# Power BI Dashboard
 
 The main Power BI dashboard provides a high-level overview of the insurance portfolio.
+<img width="1442" height="797" alt="Image" src="https://github.com/user-attachments/assets/0b8599ac-42c8-4068-a910-7d90b0d5b026" />
 
 ### KPI Cards
 
@@ -174,7 +175,7 @@ This allows users to move from portfolio-level analysis to individual policy or 
 
 ---
 
-# 💬 Customer Feedback Analysis
+# Customer Feedback Analysis
 
 A separate Power BI page analyzes customer feedback using the feedback dataset.
 
@@ -189,7 +190,7 @@ This section helps connect quantitative insurance performance with qualitative c
 
 ---
 
-# 📈 Key Findings
+# Key Findings
 
 Based on the uploaded insurance dataset:
 
@@ -231,37 +232,14 @@ The claim-status distribution provides a useful view of the current state of cla
 
 ---
 
-# 📌 Conclusion
+# Conclusion
 
 The analysis provides an integrated view of insurance portfolio value, claims, policy types, customer demographics, and customer feedback. The dataset shows Travel as the largest policy category, while claim-status analysis highlights a substantial volume of rejected and pending claims. Customer feedback is generally positive based on the supplied sentiment scores, but recurring comments point to opportunities around claim processing, response time, policy clarity, and customer support. Overall, the project demonstrates how SQL and Power BI can be combined to turn insurance data into business-focused insights.
 
 ---
 
-# 📁 Repository Structure
 
-```text
-Insurance-Customer-Analytics/
-│
-├── data/
-│   ├── InsuranceData.csv
-│   ├── Insurance.xlsx
-│   └── Insurance+Customer+Feedback.xlsx
-│
-├── sql/
-│   └── Insurance.sql
-│
-├── powerbi/
-│   └── Insurance.pbix
-│
-├── images/
-│   └── dashboard-overview.png
-│
-└── README.md
-```
-
----
-
-# 🚀 How to Use
+#  How to Use
 
 ### 1. Download the project files
 
@@ -285,13 +263,13 @@ Use the available slicers and visuals to explore policy, premium, coverage, clai
 
 ---
 
-# 🔐 Data & Privacy Note
+# Data & Privacy Note
 
 The project uses a dataset prepared for analytics and portfolio purposes. No real customer credentials, passwords, or sensitive authentication information are included in the project files.
 
 ---
 
-# 💡 Skills Demonstrated
+# Skills Demonstrated
 
 - Data Analysis
 - SQL Server
@@ -307,9 +285,9 @@ The project uses a dataset prepared for analytics and portfolio purposes. No rea
 
 ---
 
-## 👤 Author
+## Author
 
 **Harsh Negi**  
-M.Sc. Bioinformatics | Aspiring Data Analyst
+Aspiring Data Analyst
 
 
