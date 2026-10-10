@@ -267,10 +267,6 @@ Use the available slicers and visuals to explore policy, premium, coverage, clai
 
 The project uses a dataset prepared for analytics and portfolio purposes. No real customer credentials, passwords, or sensitive authentication information are included in the project files.
 
----
-
----
-
 ## Author
 
 **Harsh Negi**  
