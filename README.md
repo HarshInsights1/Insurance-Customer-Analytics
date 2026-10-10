@@ -269,20 +269,6 @@ The project uses a dataset prepared for analytics and portfolio purposes. No rea
 
 ---
 
-# Skills Demonstrated
-
-- Data Analysis
-- SQL Server
-- Power BI
-- DAX / calculated fields
-- Data visualization
-- KPI reporting
-- Insurance analytics
-- Claims analysis
-- Customer feedback analysis
-- Sentiment analysis
-- Business storytelling
-
 ---
 
 ## Author
